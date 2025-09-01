@@ -1,0 +1,11 @@
+{
+  "name": "node-calculator",
+  "version": "1.0.0",
+  "description": "Simple Node.js Calculator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Praveen Tak",
+  "license": "ISC"
+}
